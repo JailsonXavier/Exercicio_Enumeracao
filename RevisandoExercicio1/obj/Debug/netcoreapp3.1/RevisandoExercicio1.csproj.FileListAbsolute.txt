@@ -1,0 +1,13 @@
+C:\Users\xavie\OneDrive\Documentos\Material do Curso C# .Net\Seção 9\RevisandoExercicio1\RevisandoExercicio1\bin\Debug\netcoreapp3.1\RevisandoExercicio1.exe
+C:\Users\xavie\OneDrive\Documentos\Material do Curso C# .Net\Seção 9\RevisandoExercicio1\RevisandoExercicio1\bin\Debug\netcoreapp3.1\RevisandoExercicio1.deps.json
+C:\Users\xavie\OneDrive\Documentos\Material do Curso C# .Net\Seção 9\RevisandoExercicio1\RevisandoExercicio1\bin\Debug\netcoreapp3.1\RevisandoExercicio1.runtimeconfig.json
+C:\Users\xavie\OneDrive\Documentos\Material do Curso C# .Net\Seção 9\RevisandoExercicio1\RevisandoExercicio1\bin\Debug\netcoreapp3.1\RevisandoExercicio1.runtimeconfig.dev.json
+C:\Users\xavie\OneDrive\Documentos\Material do Curso C# .Net\Seção 9\RevisandoExercicio1\RevisandoExercicio1\bin\Debug\netcoreapp3.1\RevisandoExercicio1.dll
+C:\Users\xavie\OneDrive\Documentos\Material do Curso C# .Net\Seção 9\RevisandoExercicio1\RevisandoExercicio1\bin\Debug\netcoreapp3.1\RevisandoExercicio1.pdb
+C:\Users\xavie\OneDrive\Documentos\Material do Curso C# .Net\Seção 9\RevisandoExercicio1\RevisandoExercicio1\obj\Debug\netcoreapp3.1\RevisandoExercicio1.csprojAssemblyReference.cache
+C:\Users\xavie\OneDrive\Documentos\Material do Curso C# .Net\Seção 9\RevisandoExercicio1\RevisandoExercicio1\obj\Debug\netcoreapp3.1\RevisandoExercicio1.AssemblyInfoInputs.cache
+C:\Users\xavie\OneDrive\Documentos\Material do Curso C# .Net\Seção 9\RevisandoExercicio1\RevisandoExercicio1\obj\Debug\netcoreapp3.1\RevisandoExercicio1.AssemblyInfo.cs
+C:\Users\xavie\OneDrive\Documentos\Material do Curso C# .Net\Seção 9\RevisandoExercicio1\RevisandoExercicio1\obj\Debug\netcoreapp3.1\RevisandoExercicio1.csproj.CoreCompileInputs.cache
+C:\Users\xavie\OneDrive\Documentos\Material do Curso C# .Net\Seção 9\RevisandoExercicio1\RevisandoExercicio1\obj\Debug\netcoreapp3.1\RevisandoExercicio1.dll
+C:\Users\xavie\OneDrive\Documentos\Material do Curso C# .Net\Seção 9\RevisandoExercicio1\RevisandoExercicio1\obj\Debug\netcoreapp3.1\RevisandoExercicio1.pdb
+C:\Users\xavie\OneDrive\Documentos\Material do Curso C# .Net\Seção 9\RevisandoExercicio1\RevisandoExercicio1\obj\Debug\netcoreapp3.1\RevisandoExercicio1.genruntimeconfig.cache
